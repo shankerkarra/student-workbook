@@ -3,10 +3,12 @@
 Introduction to Code Works
 Environment Setup
 
-In your own words, why we use Git?
+## In your own words, why we use Git?
 
-What are the cool benefits of having multiple branches?
+Git is used for Version-Control.
 
-What is the differnce between Git and Github?
-test it
-Ok  let wat
+## What are the cool benefits of having multiple branches?
+Code can be reverted back; Future developements can be implemented.
+
+## What is the differnce between Git and Github?
+Git is local Version-control and Github is a repository.
