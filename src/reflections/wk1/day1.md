@@ -1,10 +1,8 @@
 # Intro to Code Works Late Summer Project(Day 1)
-
 Introduction to Code Works
 Environment Setup
 
 ## In your own words, why we use Git?
-
 Git is used for Version-Control.
 
 ## What are the cool benefits of having multiple branches?
