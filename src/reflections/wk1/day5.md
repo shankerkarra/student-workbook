@@ -3,3 +3,5 @@
 
 I learned the top level of HTML/CSS/Bootstrap; I might need to practice a lot. Theoretically understood the ordering for mobile devices. I was struggling on setting the order for Columns.
 
+Week 1 Checkpoint
+https://github.com/shankerkarra/chkpt_w1.git
