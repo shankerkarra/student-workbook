@@ -3,16 +3,18 @@
 **1.** Which keywords are used to declare a variable in JavaScript?
 <!-- enter you answer in the space below -->
 ```
-
+let, var, const
 ```
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
 ```
+A function is designed to performa a particular task by the set of code block written  using syntax "function functionname( parameter). The funtion is invoked, either by call from another function or button click.
 
 ```
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
+SOLID stands for Single responsive, open close, listov substitution, Interface segreation & dependency inversion Principle.
 
 ```
 **4.** Given this array: 
@@ -22,6 +24,7 @@ let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
 ```
+Pineapple - Index is 2
 
 ```
 **5.** With these two objects: 
@@ -52,21 +55,33 @@ for ( let i = 0; i < arr.length; _______ ) {
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
+DOM - stands for Document Object Model. The DOM is a programing interface for HTML & XML documents, which represents the documents as nodes and objects.
+
+
+
 
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
+The ECMAScript types are 
+undefined / Boolean / Number / String / BitINt / Symbol / Object / Function / null.
 
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
+
 ```
+Parameters are value represents, which function or methods expects to be passed, when it is called.
+
+where as an argument represents the value that is being passed to a procedure,when it is being called.
 
 ```
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
 ```
+Primitive value are passed(copy) by value; whrere the value are passed as a copy and any changes doesn't effect the original value.
 
+where as in Reference value, the object reference is passed. Object has data type as a reference value. When object are assigned to a new variable, it refers to the same object.
 ```
