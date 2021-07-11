@@ -35,12 +35,42 @@ let them = { name:"Them", hair: false, friends: [] }
 how would you .push the `them` object into the `you` object's array of friends?
 <!-- enter you answer in the space below -->
 ```
+you.push(...them);
 
 ```
 
 **6.** Give an example of a JavaScript `Conditional`:
 <!-- enter you answer in the space below -->
 ```
+Examples of Conditional 
+
+if (20 > 15) {
+      var outcome = "Inside the block";
+}
+​outcome;
+OUTPUT
+"Inside the block" 
+
+if ("cat" === "dog") {
+      var outcome = "if block";
+} else {
+      var outcome = "else block";
+}
+outcome;
+OUTPUT
+"else block"
+
+if (false) {
+      var outcome = "if block";
+} else if (true) {
+      var outcome = "else if block";
+} else {
+      var outcome = "else block";
+}
+
+outcome;
+OUTPUT
+"else if block"
 
 ```
 **7.** In the `for loop` below, what is the name of the piece belongs inside the empty "______" space? What would you put here to increase `i` by one on every iteration?
@@ -50,15 +80,14 @@ for ( let i = 0; i < arr.length; _______ ) {
 ```
 <!-- enter you answer in the space below -->
 ```
-
+i++
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
 DOM - stands for Document Object Model. The DOM is a programing interface for HTML & XML documents, which represents the documents as nodes and objects.
 
-
-
+The first file accessed to render the DOM is HTML. The default page is INdex.HTML, the website can be configured to access another page as default.
 
 ```
 
