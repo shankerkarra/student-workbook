@@ -1,9 +1,6 @@
 ## What is Scope?
-
 Scope is accessbile limitation on a variable, function or object.
-
-## What is Hoisting ?
-
+## What is Hoisting?
 Javascript engine created global eecution context and has two phases: Creation and Excution.
 
 IN the creation phase, javascript treats variables and functions declarations to the top of the code and these feature is called as Hoisting in JAvascript.g in JavaScript.
