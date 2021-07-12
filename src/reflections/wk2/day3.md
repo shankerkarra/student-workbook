@@ -1,3 +1,5 @@
+# Week 2 (Day 3)
+
 ## What are the main ways to write information to the console? Why/when should you use each style.
 
 Console in browser allows users to interact with a web page (ex; Eceuting javascript in the content page. / print the output ).

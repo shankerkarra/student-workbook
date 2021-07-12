@@ -1,3 +1,5 @@
+# Week 2 (Day 2)
+
 ## What are the three ways to syntactically write a function? What are the differences in how the function acts (if any)?
 Functional declaration, has the syntax of Function followed by name and a list of parameters in pair of parenthesis; and a pair od bracs where the code body is written.
 

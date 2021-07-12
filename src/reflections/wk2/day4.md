@@ -1,3 +1,5 @@
+# Week 2 (Day 4)
+
 ## What are the benefits of making a plan before starting to just write the code?
 
 Designing a plan like Wireframe / Psuedocode helps the developer to show, what is his/her understanding of the requirements. Also it hels the management to view how the application and flow will looks like.
