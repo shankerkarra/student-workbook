@@ -1,3 +1,5 @@
+# Week 1 (Day 4)
+
 ## What is the purpose of wire-framing?
 Wire-framing is a blue-print of the website and helps in resolving the communication gap in look and feel. Wire-frame also helps in fostering new ideas.
 

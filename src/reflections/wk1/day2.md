@@ -1,3 +1,5 @@
+# Week 1 (Day 2)
+
 ## What is a Pseudo-Class and what are some of the most common ones you think you will use
 A CSS selector t oadd a special effects for an element. Common on are hover, focus, link.
 

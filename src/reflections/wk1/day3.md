@@ -1,3 +1,4 @@
+# Week 1 (Day 3)
 
 ## What is your favorite tip that you think is the most beneficial to improving your design?
 Retaining a customer on a website can be tough, but can be achieved more frienfdly & responsive, simple navigation. Design should support all levels of view ports.
