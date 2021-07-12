@@ -1,3 +1,5 @@
+# Week 2 (Day 1)
+
 ## What is Scope?
 Scope is accessbile limitation on a variable, function or object.
 ## What is Hoisting?
