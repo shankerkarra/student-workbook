@@ -1,4 +1,4 @@
-## What is Scope ?
+## What is Scope?
 
 Scope is accessbile limitation on a variable, function or object.
 
