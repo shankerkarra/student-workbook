@@ -20,3 +20,5 @@ Ex;
 function hello(callfunction){callfunction();}
 function print() { console.log('Hello');
 hello(print);
+
+Lab work URL : https://shankerkarra.github.io/js-tests-loops-and-arrays/

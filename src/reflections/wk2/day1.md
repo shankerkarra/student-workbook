@@ -20,3 +20,5 @@ const:
 Const is simliar to let; but cannot be upated or re-created; but its properties can be updated.
 
 var and let can be declared without initialization, whereas const mist be initialized, during decalarations.
+
+Lab work URL : https://shankerkarra.github.io/js-tests-basics/

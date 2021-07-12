@@ -20,3 +20,5 @@ The Sources panel has 3 parts:
 DOM inspector, allow to explore code. Also IDE's( ex. VS ), allows to debug the code in runtime mode.
 
 Display messages to the HTML element using innerHTML / document.write() / window.alert().
+
+Lab work URL : https://shankerkarra.github.io/RockPaperScissors/
