@@ -2,7 +2,7 @@
 
 ## What is Component based architecture?
 
-Componnt based architecture allows building apps from self-contained reusable components. The component are not depending on the other components. 
+Component based architecture allows building apps from self-contained reusable components. The component are not depending on the other components. 
 
 ## What are some benefits of Component based architecture?
 
