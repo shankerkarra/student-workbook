@@ -14,4 +14,8 @@ In case if we want to modify the starting number, we can directly assign a value
 
 ## How have you used Enums in your afternoon lab projects this far?(if you have not yet, give an example of how you could)
 
-NEED TO WRITE 
+We can use Enum for listiing all spices or for country category identification
+
+  enum category { American, Mexican, Italian, Asian, Japanese };
+
+Lab Url: https://github.com/shankerkarra/RecipeSteps.git

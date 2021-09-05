@@ -24,7 +24,11 @@ Class can be used for complex data structure, where as struct is only for small 
 **3.** What is the method that returns an instance of a class, yet it has no return type?
 <!-- enter you answer in the space below -->
 ```
+Abstract and  Main.
 
+Main method return is void. 
+
+Abstract method after implementation, can return an instance of a class, but it doesn't have return type.
 ```
 ## Example 1
 ```c#

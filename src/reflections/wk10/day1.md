@@ -42,3 +42,4 @@ Where as in value type, direct value can be assgined and the data is stored in S
 Value data types cannot be inherited where as reference type can. 
 Value types can be implemented as structure, where as reference types as class.
 
+Lab Url: https://github.com/shankerkarra/csharpday1.git

@@ -21,3 +21,5 @@ DROP TABLE table_name;
 DELETE FROM table_name - removed all the rows, but updated the database log.
 DROP TABLE table_name - removed the entire table from the database, with out logging.
 
+
+Lab Url: https://github.com/shankerkarra/knightstale.git
