@@ -2,9 +2,9 @@
 
 ## What is the difference between a primary key and a foreign key
 
-A Primary key constraint on a column signifies that it is uniquely identifies for every roew in a table. Whereas Foreign Key is a column that creats a relationship between two tables.
+A Primary key constraint on a column signifies that it is uniquely identifies for every row in a table. Whereas Foreign Key is a column that creats a relationship between two tables.
 
-A table can only contain singl Primary Key, whereas foreign key can have multiple foreign keys.
+A table can only contain single Primary Key, whereas table can have multiple foreign keys.
 
 Primary key can't have duplicate values, whereas table containing foreign key can have multiple rows with th same value.
 

@@ -2,10 +2,7 @@
 
 ## What is SQL injection?
 
-SQL injection is an attack, where malicious code can be sent as a user input which is passed on as parameter for execution.
-
-SQL injection is an attack in which malicious code is inserted into strings that are later passed to an instance of SQL Server for parsing and execution. Any procedure that constructs SQL statements should be reviewed for injection vulnerabilities because SQL Server will execute all syntactically valid queries that it receives. Even parameterized data can be manipulated by a skilled and determined attacker.
-
+SQL injection is an attack, where malicious code can be sent as a user input which can be passed on as parameter for SQL execution.
 ## What are 3 methods SQL injection can be done by?
 
 User input forms
