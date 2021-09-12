@@ -6,6 +6,8 @@ Inheritance in C# allows to define a base class that provides specific method fu
 
 ## How does Member inheritance work in C#? Does a class inherit all members of the base class?
 
-Child class will inherit members of the parent class. Yes, to override add "new" prior to the member modifier, which will not hide the inheritance of the method from base class. 
+Child class will inherit all members of the parent class. Yes, to override add "new" prior to the member modifier, which will hide the inheritance of the method from base class. 
 
 ## How does accessibility affect inheritance?
+
+The accessibility of the member class is accessiabl in the project that is declared within the domain including all of the source files of the project.
