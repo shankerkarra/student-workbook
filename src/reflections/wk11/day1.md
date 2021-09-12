@@ -10,4 +10,4 @@ Child class will inherit all members of the parent class. Yes, to override add "
 
 ## How does accessibility affect inheritance?
 
-The accessibility of the member class is accessiabl in the project that is declared within the domain including all of the source files of the project.
+The accessibility of the member class is accessable in the project that is declared within the domain including all of the source files of the project.
