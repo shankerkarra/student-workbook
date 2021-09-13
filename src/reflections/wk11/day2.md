@@ -47,3 +47,6 @@ select
 dp.*, d.*, p.* from doctorspatients dp
 JOIN doctors d on d.id = dp.doctorId,
 join patients p on p.id = dp.patientId
+
+
+Lab Url: https://github.com/shankerkarra/jobcontractors.git

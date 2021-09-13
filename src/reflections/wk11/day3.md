@@ -16,3 +16,5 @@ Use SQL Prepared statements with parameterized queries, instead of direct user-s
 Control account privileges.
 
 Remove default stored procedures, which are shipped along with databases and use stored procedures instead of direct SQL Statements.
+
+Lab Url: https://github.com/shankerkarra/newprj.git
